@@ -5,7 +5,7 @@
 
 ## Day 1
 #### Arrays
-1.Two Sum
-26. Remove Duplicates from Sorted Array
-283. Move Zeroes
-54. Spiral Matrix
+1.Two Sum <br>
+26. Remove Duplicates from Sorted Array <br>
+283. Move Zeroes <br>
+54. Spiral Matrix <br>

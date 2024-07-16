@@ -13,5 +13,5 @@
 ## Day 2
 #### Arrays
 121. Best Time to Buy and Sell Stock <br>
-26. Remove Duplicates from Sorted Array <br>
+287. Remove Duplicates from Sorted Array <br>
 75. Sort Colors <br>

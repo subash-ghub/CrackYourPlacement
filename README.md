@@ -9,3 +9,8 @@
 26. Remove Duplicates from Sorted Array <br>
 283. Move Zeroes <br>
 54. Spiral Matrix <br>
+
+## Day 2
+#### Arrays
+121. Best Time to Buy and Sell Stock <br>
+26. Remove Duplicates from Sorted Array <br>

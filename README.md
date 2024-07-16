@@ -12,6 +12,6 @@
 
 ## Day 2
 #### Arrays
-287. Remove Duplicates from Sorted Array 
-121. Best Time to Buy and Sell Stock
-75. Sort Colors
+287- Remove Duplicates from Sorted Array 
+121- Best Time to Buy and Sell Stock
+75 - Sort Colors

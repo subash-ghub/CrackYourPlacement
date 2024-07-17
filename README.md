@@ -16,3 +16,10 @@
 121- Best Time to Buy and Sell Stock <br>
 75 - Sort Colors <br>
 122 - Best Time to Buy and Sell Stock II <br>
+
+## Day 2
+#### Strings
+14. Longest Common Prefix
+20. Valid Parentheses
+28. Find the Index of the First Occurrence in a String
+680. Valid Palindrome II

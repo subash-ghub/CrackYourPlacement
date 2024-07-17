@@ -19,7 +19,7 @@
 
 ## Day 𝟯
 #### Strings
-14 - Longest Common Prefix
-20 - Valid Parentheses
-28 - Find the Index of the First Occurrence in a String
-680 - Valid Palindrome II
+14 - Longest Common Prefix <br>
+20 - Valid Parentheses <br>
+28 - Find the Index of the First Occurrence in a String <br>
+680 - Valid Palindrome II <br>

@@ -17,7 +17,7 @@
 75 - Sort Colors <br>
 122 - Best Time to Buy and Sell Stock II <br>
 
-## Day 2
+## Day 𝟯
 #### Strings
 14. Longest Common Prefix
 20. Valid Parentheses

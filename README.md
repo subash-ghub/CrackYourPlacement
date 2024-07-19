@@ -26,14 +26,14 @@
 
 ## Day 4
 #### Dynamic Programming:
-152 - Maximum Product Subarray
-338 - Counting Bits
-474 - Ones and Zeroes
-70 - Climbing Stairs
+152 - Maximum Product Subarray <br>
+338 - Counting Bits <br> 
+474 - Ones and Zeroes <br>
+70 - Climbing Stairs <br>
 
 ## 𝗗𝗔𝗬 5 
 #### Dynamic Programming:
-62 - Unique Paths
-64.- Minimum Path Sum
-70 - Climbing Stairs 
-91 -  Decode Ways
+62 - Unique Paths <br>
+64.- Minimum Path Sum <br>
+70 - Climbing Stairs  <br>
+91 -  Decode Ways <br>

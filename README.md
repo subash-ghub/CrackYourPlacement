@@ -23,3 +23,17 @@
 20 - Valid Parentheses <br>
 28 - Find the Index of the First Occurrence in a String <br>
 680 - Valid Palindrome II <br>
+
+## Day 4
+#### Dynamic Programming:
+152. Maximum Product Subarray
+338. Counting Bits
+474. Ones and Zeroes
+70. Climbing Stairs
+
+## 𝗗𝗔𝗬 5 
+#### Dynamic Programming:
+62. Unique Paths
+64. Minimum Path Sum
+70. Climbing Stairs 
+91. Decode Ways

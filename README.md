@@ -40,9 +40,9 @@
 
 ## 𝗗𝗔𝗬 6
 #### Mathamatical Programming:
-202. Happy Number <br>
-268. Missing Number <br>
-453. Minimum Moves to Equal Array Elements <br>
-54. Spiral Matrix <br>
-67. Add Binary <br>
-9. Palindrome Number <br>
+202 -  Happy Number <br>
+268 - Missing Number <br>
+453 - Minimum Moves to Equal Array Elements <br>
+54 - Spiral Matrix <br>
+67 - Add Binary <br>
+9 - Palindrome Number <br>

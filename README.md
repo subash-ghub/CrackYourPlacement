@@ -46,3 +46,12 @@
 54 - Spiral Matrix <br>
 67 - Add Binary <br>
 9 - Palindrome Number <br>
+
+## Day 7
+#### Arrays:
+11 - Container With Most Water
+15 - 3Sum
+18 - 4Sum
+442 - Find All Duplicates in an Array
+974 - Subarray Sums
+1423 - Maximum Points You Can Obtain from cards

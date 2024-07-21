@@ -49,9 +49,9 @@
 
 ## Day 7
 #### Arrays:
-11 - Container With Most Water
-15 - 3Sum
-18 - 4Sum
-442 - Find All Duplicates in an Array
-974 - Subarray Sums
-1423 - Maximum Points You Can Obtain from cards
+11 - Container With Most Water <br>
+15 - 3Sum <br>
+18 - 4Sum <br>
+442 - Find All Duplicates in an Array <br>
+974 - Subarray Sums <br>
+1423 - Maximum Points You Can Obtain from cards <br>

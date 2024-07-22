@@ -60,5 +60,5 @@
 #### Matrix Porblems:
 Find the number of islands using DFS <br>
 Maximum size rectangle binary sub-matrix with all Is <br>
-Rotate Image <br>
+48. Rotate Image <br>
 Matrix of  replace <br>

@@ -58,7 +58,7 @@
 
 ## Day 8
 #### Matrix Porblems:
-Find the number of islands using DFS
-Maximum size rectangle binary sub-matrix with all Is 
-Rotate Image 
-Matrix of  replace
+Find the number of islands using DFS <br>
+Maximum size rectangle binary sub-matrix with all Is <br>
+Rotate Image <br>
+Matrix of  replace <br>

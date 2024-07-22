@@ -55,3 +55,10 @@
 442 - Find All Duplicates in an Array <br>
 974 - Subarray Sums <br>
 1423 - Maximum Points You Can Obtain from cards <br>
+
+## Day 8
+#### Matrix Porblems:
+Find the number of islands using DFS
+Maximum size rectangle binary sub-matrix with all Is 
+Rotate Image 
+Matrix of  replace

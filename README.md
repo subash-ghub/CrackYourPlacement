@@ -63,3 +63,14 @@ Maximum size rectangle binary sub-matrix with all Is <br>
 48. Rotate Image <br>
 Matrix of  replace <br>
 54. Spiral Matrix <br>
+
+## Day 9
+#### Two Pointer Approach:
+1610. Maximum Number of Visible Points <br>
+424. Longest Repeating Character Replacement <br>
+75. Sort Colors<br>
+#### Segment Tree:
+303. Range Sum Query - Immutable <br>
+307. Range Sum Query - Mutable <br>
+315. Count of Smaller Numbers After Self <br>
+327. Count of Range Sum <br>

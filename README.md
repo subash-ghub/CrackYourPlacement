@@ -77,7 +77,7 @@ Matrix of  replace <br>
 
 ## Day 10
 #### Tree:
-226. Invert Binary Tree
-543. Diameter of Binary Tree
-572. Subtree of Another Tree
-938. Range Sum of BST
+226 - Invert Binary Tree
+543 - Diameter of Binary Tree
+572 - Subtree of Another Tree
+938 - Range Sum of BST

@@ -74,3 +74,10 @@ Matrix of  replace <br>
 307 - Range Sum Query - Mutable <br>
 315 - Count of Smaller Numbers After Self <br>
 327 - Count of Range Sum <br>
+
+## Day 10
+#### Tree:
+226. Invert Binary Tree
+543. Diameter of Binary Tree
+572. Subtree of Another Tree
+938. Range Sum of BST

@@ -77,7 +77,13 @@ Matrix of  replace <br>
 
 ## Day 10
 #### Tree:
-226 - Invert Binary Tree
-543 - Diameter of Binary Tree
-572 - Subtree of Another Tree
-938 - Range Sum of BST
+226 - Invert Binary Tree <br> 
+543 - Diameter of Binary Tree <br>
+572 - Subtree of Another Tree <br>
+938 - Range Sum of BST <br>
+
+## Day 10
+#### Tree:
+101 - Symmetric Tree <br>
+104 - Maximum Depth of Binary Tree <br>
+108 - Convert Sorted Array to Binary Search Tree <br>

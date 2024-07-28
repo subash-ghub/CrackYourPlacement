@@ -89,9 +89,16 @@ Matrix of  replace <br>
 108 - Convert Sorted Array to Binary Search Tree <br>
 617 - Merge Two Binary Trees <br>
 
-## Day 11
+## Day 12
 #### Tree:
 100 - Same Tree <br>
 112 - Path Sum <br>
 235 - Lowest Common Ancestor of a Binary Search Tree <br>
 257 - Binary Tree Paths <br>
+
+## Day 13
+#### Tree:
+Predecessor and Successor <br>
+94. Binary Tree Inorder Traversal <br>
+404. Sum of Left Leaves <br>
+530. Minimum Absolute Difference in BST <br>

@@ -118,3 +118,9 @@ Predecessor and Successor <br>
 684 - Redundant Connection <br>
 102 - Binary Tree Level Order Traversal <br>
 437 - Path Sum III
+
+## Day 16
+#### Array:
+84 - Largest Rectangle in Histogram
+1499 - Max Value of Equation
+381 - Insert Delete GetRandom O(1)Duplicates allowed

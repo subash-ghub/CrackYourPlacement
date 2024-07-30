@@ -121,6 +121,6 @@ Predecessor and Successor <br>
 
 ## Day 16
 #### Array:
-84 - Largest Rectangle in Histogram
-1499 - Max Value of Equation
-381 - Insert Delete GetRandom O(1)Duplicates allowed
+84 - Largest Rectangle in Histogram <br>
+1499 - Max Value of Equation <br>
+381 - Insert Delete GetRandom O(1)Duplicates allowed <br>

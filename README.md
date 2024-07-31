@@ -125,8 +125,8 @@ Predecessor and Successor <br>
 1499 - Max Value of Equation <br>
 381 - Insert Delete GetRandom O(1)Duplicates allowed <br>
 
-## Day 16
+## Day 17
 #### Array:
-169 - Majority Element
-289 - Game of Life
-493 - Reverse Pairs
+169 - Majority Element <br>
+289 - Game of Life <br>
+493 - Reverse Pairs <br>

@@ -124,3 +124,9 @@ Predecessor and Successor <br>
 84 - Largest Rectangle in Histogram <br>
 1499 - Max Value of Equation <br>
 381 - Insert Delete GetRandom O(1)Duplicates allowed <br>
+
+## Day 16
+#### Array:
+169 - Majority Element
+289 - Game of Life
+493 - Reverse Pairs

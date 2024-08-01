@@ -130,3 +130,9 @@ Predecessor and Successor <br>
 169 - Majority Element <br>
 289 - Game of Life <br>
 493 - Reverse Pairs <br>
+
+## Day 18
+Array:
+88. Merge Sorted Array <br>
+55. Jump Game <br>
+169. Majority Element <br>
